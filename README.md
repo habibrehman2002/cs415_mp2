@@ -6,3 +6,5 @@ Main Level is in Content/BlockGame/Maps/MP2
 AIs and other actors are in Content/LearningKit_Games/Blueprints/
 
 Modified Game and character are in Content/Hour_of_Code/Blueprints/Game/
+
+Design document is pdf in the root folder
